@@ -32,7 +32,7 @@ function App() {
         <ParallaxLayer offset={0} speed={1.0}>
           <div class="animation_layer parallax" id="jungle5"></div>
         </ParallaxLayer>
-        <ParallaxLayer offset={1} speed={0}>
+        <ParallaxLayer offset={1} speed={1.0}>
           <div id="textblock">
               <div id="textblock-container">
                   <h1 id="textblock-title">What is Firewatch?</h1>
