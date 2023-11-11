@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/firewatch-parallax/static/css/main.931f868b.css",
+    "main.js": "/firewatch-parallax/static/js/main.b88c67a6.js",
+    "static/js/787.f7af7995.chunk.js": "/firewatch-parallax/static/js/787.f7af7995.chunk.js",
+    "static/media/jungle1.png": "/firewatch-parallax/static/media/jungle1.5ec83d96505269c854f3.png",
+    "static/media/background.png": "/firewatch-parallax/static/media/background.f8e0a3e86fb4252623af.png",
+    "static/media/jungle3.png": "/firewatch-parallax/static/media/jungle3.5350abbda455914478ee.png",
+    "static/media/mountains.png": "/firewatch-parallax/static/media/mountains.af6b8801f09352cf3f76.png",
+    "static/media/man_on_mountain.png": "/firewatch-parallax/static/media/man_on_mountain.41b59d37a39bb0b35f75.png",
+    "static/media/jungle4.png": "/firewatch-parallax/static/media/jungle4.80488612344ed2683ee6.png",
+    "static/media/jungle2.png": "/firewatch-parallax/static/media/jungle2.b3f7031947988987d357.png",
+    "static/media/logo_land.png": "/firewatch-parallax/static/media/logo_land.38bc453f18c7f64bebdc.png",
+    "static/media/jungle5.png": "/firewatch-parallax/static/media/jungle5.6f841a2d5b2b021093df.png",
+    "index.html": "/firewatch-parallax/index.html",
+    "main.931f868b.css.map": "/firewatch-parallax/static/css/main.931f868b.css.map",
+    "main.b88c67a6.js.map": "/firewatch-parallax/static/js/main.b88c67a6.js.map",
+    "787.f7af7995.chunk.js.map": "/firewatch-parallax/static/js/787.f7af7995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.931f868b.css",
+    "static/js/main.b88c67a6.js"
+  ]
+}
