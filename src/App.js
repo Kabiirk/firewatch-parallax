@@ -31,9 +31,7 @@ function App() {
         </ParallaxLayer>
         <ParallaxLayer offset={0} speed={1.0}>
           <div class="animation_layer parallax" id="jungle5"></div>
-          <div id="textblock" style={{marginTop: 50 + '%'}}>
-              <div id="textblock-container">
-              </div>
+          <div id="textblock" style={{height: 110 + 'vh', marginTop: 100 + 'vh'}}>
           </div>
         </ParallaxLayer>
         <ParallaxLayer offset={1} speed={0.2}>
