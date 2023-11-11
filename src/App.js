@@ -34,7 +34,7 @@ function App() {
           <div id="textblock" style={{height: 110 + 'vh', marginTop: 100 + 'vh'}}>
           </div>
         </ParallaxLayer>
-        <ParallaxLayer offset={1} speed={0.2}>
+        <ParallaxLayer offset={1} speed={0.0}>
           <div id="textblock">
               <div id="textblock-container">
                   <h1 id="textblock-title">What is Firewatch?</h1>
